@@ -1,4 +1,4 @@
-# GUI-based-APIC-EM-demos
+# APIC-EM REST API GUI based demos
 
 written in python3
 
